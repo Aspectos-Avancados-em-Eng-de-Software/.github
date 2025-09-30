@@ -1,4 +1,4 @@
-# 📚 Aspectos Avançados em Engenharia de Software - DCC078 (2025/3)
+# 📚 Aspectos Avançados em Engenharia de Software - DCC078
 
 Bem-vindo ao repositório oficial da disciplina **Aspectos Avançados em Engenharia de Software (DCC078)** do Departamento de Ciência da Computação da Universidade Federal de Juiz de Fora.  
 Este espaço reúne todas as atividades práticas e avaliativas do semestre 2025/3, desenvolvidas pela aluna **Anna Julia Lucas**, sob a orientação do Prof. Marco Antonio Araujo.
