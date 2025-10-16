@@ -19,3 +19,13 @@ Este espaço reúne todas as atividades práticas e avaliativas do semestre 2025
 
 - **Descrição**: Implementação do padrão de projeto *Singleton*, que garante que uma classe possua apenas uma única instância em todo o ciclo de vida da aplicação, fornecendo um ponto global de acesso a ela.  
   Esse padrão é amplamente utilizado em casos onde é necessário um controle centralizado, como gerenciadores de configuração, logs ou conexões de banco de dados.
+
+### 4. [Decorator](https://github.com/Aspectos-Avancados-em-Eng-de-Software/Decorator)
+
+- **Descrição**: Implementação do padrão de projeto *Decorator*, um padrão estrutural que permite adicionar comportamentos ou responsabilidades a objetos de forma dinâmica, sem alterar suas classes originais.  
+  Esse padrão favorece a composição sobre a herança, tornando o código mais flexível e facilmente extensível.
+
+### 5. [Bridge](https://github.com/Aspectos-Avancados-em-Eng-de-Software/Bridge)
+
+- **Descrição**: Implementação do padrão de projeto *Bridge*, um padrão estrutural que desacopla uma abstração de sua implementação, permitindo que ambas evoluam independentemente.  
+  Ele é útil em cenários onde há múltiplas dimensões de variação, tornando o código mais modular e de fácil manutenção.
